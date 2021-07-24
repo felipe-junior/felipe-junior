@@ -1,16 +1,41 @@
-### Hi there 👋
+ 
 
-<!--
-**felipe-junior/felipe-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Hi, my name is Felipe.** ## 
 
-Here are some ideas to get you started:
+I'm a 21 years old Computer Science student at Centro Federal de Educação Celso Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+:muscle: I have knowledge in c#, javascript, node.js
+
+:books: I'm currently learning React.js and .Net Core
+
+
+***
+
+### **My Github Stats** ###
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-junior&show_icons=true&theme=midnight-purple)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-junior&layout=compact&hide=jupyter%20Notebook,CSS&theme=prussian)]
+
+***
+### **PROJECTS DONE** ###
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipe-junior&repo=projeto-ramo&show_owner=true&theme=gotham)](https://github.com/felipe-junior/projeto-ramo)
+
+
+
+
+### **Languages and Tools** ###
+
+<div style="display: inline_block">
+ <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg width='45' height='45'>
+ <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg width='45' height='45'>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg width='45' height='45'> 
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg width='45' height='45'>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg width='45' height='45'>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg width='45'height='45'>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg width='55'height='55'>
+</div>
+
+
