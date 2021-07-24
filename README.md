@@ -32,12 +32,16 @@ I'm a 21 years old Computer Science student at Centro Federal de Educação Cels
 <div style="display: inline_block">
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg width='45' height='45'>
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg width='45' height='45'>
+ <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg width='45' height='45'>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg width='45' height='45'> 
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg width='45' height='45'>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg width='45' height='45'>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg width='45'height='45'>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg width='55'height='55'>
  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg width='50' heigth='50'>
+ <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg width='45' height='45'>
+ <img src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg width='45' height='45'>
+ 
 </div>
 
 
