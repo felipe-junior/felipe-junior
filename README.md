@@ -3,7 +3,7 @@
 ## **Hi, my name is Felipe.** ## 
 <a href="https://www.linkedin.com/in/felipesantosjr/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='45' height='45'></a>
 
-I'm a 21 years old Computer Science student at Centro Federal de Educação Celso Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil.  
+I'm a 22 years old Computer Science student at Centro Federal de Educação Celso Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil.  
 
 ***
 :muscle: I have knowledge in c#, javascript, node.js
